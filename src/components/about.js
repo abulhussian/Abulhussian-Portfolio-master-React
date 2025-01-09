@@ -3,7 +3,7 @@ import Abulhussian from "../assets/Abulhussian.jpeg";
 
 const About = () => {
   return (
-    <div className="pb-80 bg-[#0a192f]">
+    <div className=" md:pb-80 bg-[#0a192f]">
       <div
         name="about "
         className="sm:pt-0  w-full sm:h-screen bg-[#0a192f] text-gray-300  "

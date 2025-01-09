@@ -11,7 +11,7 @@ import sql from "../assets/sql.png";
 
 const Skills = () => {
   return (
-    <div className="pt-52 bg-[#0a192f]">
+    <div className=" md:pt-52 bg-[#0a192f]">
       <div
         name="skills"
         className="bg-[#0a192f] text-gray-300 w-full sm:h-screen sm:pt-0"
@@ -64,7 +64,7 @@ const Skills = () => {
           <div className="w-4/5 mx-auto border-t-2 border-gray-500 my-8"></div>
 
           {/* Additional Skills Section */}
-          <div className="mt-8 pb-80">
+          <div className="mt-8 md:pb-80">
             <p className="text-2xl font-bold text-[#ccd6f6]">
               Additional Knowledge
             </p>
